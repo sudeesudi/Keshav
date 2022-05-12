@@ -1,2 +1,3 @@
-[this file contains the deployment script ..
+this file is updating in master branch
+this file contains the deployment script ..
 
